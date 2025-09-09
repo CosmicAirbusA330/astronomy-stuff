@@ -1,2 +1,2 @@
 # astronomy-stuff
-lunar and solar eclipses.
+just astronomy stuff
