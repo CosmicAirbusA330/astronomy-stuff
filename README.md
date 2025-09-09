@@ -1,2 +1,2 @@
 # astronomy-stuff
-just astronomy stuff
+just astronomy stuff.
